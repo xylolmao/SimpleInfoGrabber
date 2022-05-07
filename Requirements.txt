@@ -1,0 +1,6 @@
+win32gui
+requests
+socket
+pyperclip
+platform
+psutil
